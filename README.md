@@ -1,4 +1,4 @@
 hunter
 ======
 
-The uber-cool Hunter project.
+The uber-cool Hunter project.  I like to fish.
